@@ -1,0 +1,5 @@
+# Tested with: zxcvbn 4.5.0, rich 15.0.0, requests 2.34.2, pytest 9.2.0 (Python 3.12)
+zxcvbn
+rich
+requests
+pytest
